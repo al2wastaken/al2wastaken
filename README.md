@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @AltuYumusakG
-- 👀 I’m interested in coding with JavaScript
-- 🌱 I’m currently learning HTML & CSS
-- 📫 If you want to contact me: altug@kitamor.com
+- Selam, ben Altuğ 👋
