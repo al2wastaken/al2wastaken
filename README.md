@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Altuğ from Turkey! 🇹🇷<br>I am currently 17 years old, I will be 18 soon!</p>
+<p align="left">I am Altuğ from Turkey! 🇹🇷</p>
 
 ###
 
@@ -16,6 +16,8 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
