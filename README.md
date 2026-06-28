@@ -66,6 +66,3 @@
 
 ###
 
-<h3 align="left">🎧 The ones that keep me coding</h3>
-
-###
