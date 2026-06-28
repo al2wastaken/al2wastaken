@@ -69,11 +69,3 @@
 <h3 align="left">🎧 The ones that keep me coding</h3>
 
 ###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/z32up85scz49pqb5lacdmfuxl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=z32up85scz49pqb5lacdmfuxl&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
